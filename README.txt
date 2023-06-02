@@ -1,36 +1,13 @@
-<h1> Hello
+Welcome to my research webpage! This webpage serves as a platform to showcase my research work, projects, publications, and other related information. Here, you can find an overview of my research interests, ongoing projects, and contact details for further collaboration or inquiries.
 
 
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Contact
+-------
 
+For any inquiries or collaboration opportunities, you can reach me at:
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+- Name: Deepak Kumar
+- Email: deepukhola@gmail.com
+- Website: https://dpk-kmr.github.io/deepak_kumar.github.io/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Thank you for visiting my research webpage!
